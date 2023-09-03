@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.mycompany.datatype","c":"DataType","l":"DataType()","u":"%3Cinit%3E()"},{"p":"com.mycompany.datatype","c":"DataType","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
